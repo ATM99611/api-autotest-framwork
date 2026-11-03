@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5888","01-----管理员登录成功","","2026-11-03","passed","2026-11-03","Test02","test_01","",""
+"","1959","04-----None","","2026-11-03","broken","2026-11-03","Test02","test_01","",""
+"","774","03-----None","","2026-11-03","passed","2026-11-03","Test02","test_01","",""
+"","837","02-----查不到信息","","2026-11-03","passed","2026-11-03","Test02","test_01","",""
